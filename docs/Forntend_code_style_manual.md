@@ -14,13 +14,11 @@
     * [Отступы](formatting/formatting.md#отступы)
     * [Комментарии](formatting/formatting.md#комментарии)
     * [Prettier](formatting/formatting.md#prettier)
-3. Файловая структура
-4. Тестирование
-    * Jest/Vitest
-5. Контроль версий
+3. [Тестирование](testing/testing.md#тестирование)
+4. Контроль версий
     * Коммиты
     * Ветвление
-6. Документация
+5. Документация
     * JSDoc
-7. Сборка проекта
+6. Сборка проекта
     * Vite
