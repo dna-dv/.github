@@ -15,9 +15,10 @@
     * [Комментарии](formatting/formatting.md#комментарии)
     * [Prettier](formatting/formatting.md#prettier)
 3. [Тестирование](testing/testing.md#тестирование)
-4. Контроль версий
-    * Коммиты
-    * Ветвление
+4. [Контроль версий](version_control/version_control.md#контроль-версий)
+    * [GitFlow](version_control/version_control.md#модель-ветвления-gitflow)
+    * [Коммиты](version_control/version_control.md#коммиты)
+    * [Pull requests](version_control/version_control.md#pull-requests)
 5. Документация
     * JSDoc
 6. Сборка проекта
