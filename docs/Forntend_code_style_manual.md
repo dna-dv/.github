@@ -19,7 +19,7 @@
     * [GitFlow](version_control/version_control.md#модель-ветвления-gitflow)
     * [Коммиты](version_control/version_control.md#коммиты)
     * [Pull requests](version_control/version_control.md#pull-requests)
-5. Документация
-    * JSDoc
-6. Сборка проекта
-    * Vite
+5. [Инструменты](tools/tools.md#инструменты)
+    * [Yarn](tools/tools.md#yarn)
+    * [JSDoc](tools/tools.md#jsdoc)
+    * [Vite](tools/tools.md#vite)
